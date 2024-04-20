@@ -11,12 +11,12 @@ require_once './layouts/sidebar.php';
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Data Pasien</h1>
+            <h1>Praktikum 6</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Data Pasien</li>
+              <li class="breadcrumb-item active">Praktikum 6</li>
             </ol>
           </div>
         </div>
@@ -29,7 +29,7 @@ require_once './layouts/sidebar.php';
       <!-- Default box -->
       <div class="card">
         <div class="card-header">
-          <h3 class="card-title">Data Pasien</h3>
+          <h3 class="card-title">Praktikum 6</h3>
 
           <div class="card-tools">
             <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
@@ -41,28 +41,7 @@ require_once './layouts/sidebar.php';
           </div>
         </div>
         <div class="card-body">
-          <table class="table tablebordered">
-            <thead>
-                <tr>
-                    <th>No</th>
-                    <th>Kode</th>
-                    <th>Nama Pasien</th>
-                    <th>Alamat</th>
-                    <th>Email</th>
-                    <th>Action</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>1</td>
-                    <td>P001</td>
-                    <td>Ahmad Dani</td>
-                    <td>Tanah Baru</td>
-                    <td>dani@gmail.com</td>
-                    <td></td>
-                </tr>
-            </tbody>
-          </table>
+          Siti Hiyarunnisa
         </div>
         <!-- /.card-body -->
         <div class="card-footer">
